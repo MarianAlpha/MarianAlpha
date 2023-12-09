@@ -1,10 +1,10 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/MarianAlpha/MarianAlpha/main/2021-10-01.png" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://raw.githubusercontent.com/MarianAlpha/MarianAlpha/main/2021-10-01_animation.gif" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
 ### Hi there 👋 I'm Mariana Paniagua
-> Electronic Engineering Student
+> Electronic Engineering Student at the Universidad de Antioquia
 
 <div>
  <p>
