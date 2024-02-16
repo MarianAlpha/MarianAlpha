@@ -8,7 +8,7 @@
 
 <div>
  <p>
-I am junior developer 
+I am junior developer and junior data scientist
 </p>
 </div>
 
