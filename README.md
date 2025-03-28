@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm Mariana Paniagua
-> Electronic Engineering Student at the Universidad de Antioquia
+> Machine Learning Engineer
 
 <div>
  <p>
