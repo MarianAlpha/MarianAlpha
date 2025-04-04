@@ -4,11 +4,11 @@
 </p>
 
 ### Hi there 👋 I'm Mariana Paniagua
-> Machine Learning Engineer
+> Artificial Intelligent Engineer
 
 <div>
  <p>
-I am junior developer and junior data scientist
+I am Electronic Engineer with an emphasis on AI and one year of experience
 </p>
 </div>
 
